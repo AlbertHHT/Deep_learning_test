@@ -1,0 +1,25 @@
+## Common scientific modules
+numpy
+scipy
+matplotlib
+opencv # pip install opencv-python
+
+## Request and data communication modules
+flask
+
+## Code testing
+unittest
+
+## Code supervising
+
+## AI related modules
+sklearn
+torch
+tensorflow
+transformers
+safetensors
+accelerate
+jax # https://jax.readthedocs.io/en/latest/installation.html
+jaxlib
+# MAC 
+mlx
